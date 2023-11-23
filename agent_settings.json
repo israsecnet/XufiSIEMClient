@@ -1,0 +1,8 @@
+[
+    {
+        "Log Collection Settings" : {
+            "EventViewerDumpRefresh": 10,
+            "SecurityStanceRefresh": 10
+        }
+    }
+]
