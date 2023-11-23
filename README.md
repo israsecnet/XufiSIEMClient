@@ -30,8 +30,7 @@ XufiSIEMClient is a Python application that is meant to serve as a custom log ex
   ```
    python3 setup.py
   ```
-5. Verify installation
-   Reboot the device and verify health check pings are being sent to server.
+5. Verify installation by rebooting the device, and verify health check pings are being sent to server.
 
 ## Contact
 
