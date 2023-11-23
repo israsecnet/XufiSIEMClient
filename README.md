@@ -15,9 +15,9 @@ XufiSIEMClient is a Python application that is meant to serve as a custom log ex
 ## Installation
 
 1. Clone the repository:
-   ```
+  ```
    git clone https://github.com/israsecnet/XufiSIEMClient.git
-   ```
+  ```
 3. Navigate to the project directory:
   ```
   cd XufiSIEMClient
